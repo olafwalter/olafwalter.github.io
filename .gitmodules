@@ -1,0 +1,3 @@
+[submodule "kumotimer"]
+	path = kumotimer
+	url = https://github.com/olafwalter/kumotimer.git
